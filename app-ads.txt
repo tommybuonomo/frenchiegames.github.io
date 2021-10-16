@@ -7,7 +7,7 @@ bidmachine.io, 115058, DIRECT
 #Copy Admob's app-ads.txt entry from your Admob dashboard
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
-facebook.com, Business ID, RESELLER, c3e20eee3f780d68
+facebook.com, 253404328666855, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
