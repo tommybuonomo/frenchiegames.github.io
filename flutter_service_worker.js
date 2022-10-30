@@ -3,54 +3,66 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "2ba4307c6256bf2cac8046b7827e2364",
-"index.html": "d2b743c6cd14f40eb8b142493408537c",
-"/": "d2b743c6cd14f40eb8b142493408537c",
-"main.dart.js": "a553d701163944b9a9eae3cc472a171b",
+  "version.json": "840c6069a7fd24f2b6666e69f177dc8c",
+"index.html": "9fa2308d4e877d263316fb7013e0da52",
+"/": "9fa2308d4e877d263316fb7013e0da52",
+"main.dart.js": "27543080c42cdafb1aa20d91fab71078",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
+"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "8a44a310ce2e85619b3f90a8667d28de",
-"assets/AssetManifest.json": "7825307b7033b81a8ee9ee1dd3483261",
-"assets/NOTICES": "8cf075f30973e3f29e7c1030f3d8e8c9",
-"assets/FontManifest.json": "49ca0cae5deedfd3697cc6137fe7c3fe",
-"assets/packages/flutter_neumorphic/fonts/NeumorphicIcons.ttf": "32be0c4c86773ba5c9f7791e69964585",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/images/ic_wormo.png": "f88187d453675b2518eaf62d192c02bc",
-"assets/assets/images/ic_nonogram.png": "c34f566f4d49cb94c724f9ee10cc0f02",
-"assets/assets/images/ic_rippleeffectpuzzle.png": "ef8dbd3e8a6404980062831505c845e0",
-"assets/assets/fonts/Montserrat_Medium.ttf": "c8b6e083af3f94009801989c3739425e",
-"assets/assets/fonts/Montserrat_Regular.ttf": "ee6539921d713482b8ccd4d0d23961bb",
-"assets/assets/fonts/Montserrat_MediumItalic.ttf": "40a74702035bf9ef19053c84ce9a58b9",
-"assets/assets/fonts/Montserrat_ExtraBoldItalic.ttf": "52a50ca037f2f96fa567404dc3c5bdfb",
-"assets/assets/fonts/PlayfairDisplay_Medium.ttf": "c697dace361898b149c70043f722d6eb",
-"assets/assets/fonts/PlayfairDisplay_ExtraBoldItalic.ttf": "e85f74f657a656b80a946ae3ca3a89b3",
-"assets/assets/fonts/Montserrat_SemiBold.ttf": "c641dbee1d75892e4d88bdc31560c91b",
-"assets/assets/fonts/Montserrat_Light.ttf": "409c7f79a42e56c785f50ed37535f0be",
-"assets/assets/fonts/PlayfairDisplay_Regular.ttf": "b3721ba3bde34e5b38b0e1523cccfd7f",
-"assets/assets/fonts/Montserrat_SemiBoldItalic.ttf": "83c1ec1f1db9a6416791f7d9d29536f2",
-"assets/assets/fonts/PlayfairDisplay_Italic.ttf": "8969f2415be9fd1fea2f3bc7b72baa73",
-"assets/assets/fonts/Montserrat_LightItalic.ttf": "01c4560c9c15069b6700ce7ad2e49a9c",
-"assets/assets/fonts/Montserrat_ExtraBold.ttf": "19ba7aa52a78c3896558ac1c0a5fb4c7",
-"assets/assets/fonts/PlayfairDisplay_MediumItalic.ttf": "52ce99d57d3e8e83fc957218a48177ec",
-"assets/assets/fonts/PlayfairDisplay_SemiBoldItalic.ttf": "0c9c52725638f253c569f202557bfcd3",
-"assets/assets/fonts/PlayfairDisplay_Bold.ttf": "d27b6b12d96d9cf68f493c78113ce390",
-"assets/assets/fonts/Montserrat_Italic.ttf": "a7063e0c0f0cb546ad45e9e24b27bd3b",
-"assets/assets/fonts/PlayfairDisplay_ExtraBold.ttf": "89abae8e1ceb3d408b2b3b1548ec3048",
-"assets/assets/fonts/Montserrat_BoldItalic.ttf": "1b38414956c666bd1df78fe5b9c84756",
-"assets/assets/fonts/PlayfairDisplay_BoldItalic.ttf": "5214c1b197cbef2b8043bee08e33a27e",
-"assets/assets/fonts/Montserrat_Bold.ttf": "ade91f473255991f410f61857696434b",
-"assets/assets/fonts/PlayfairDisplay_SemiBold.ttf": "68ac1d23ba6429b7dea082e8e761cde3"
+"manifest.json": "8b687b77c13581dbae4e67332424e300",
+"assets/AssetManifest.json": "eb0ec993bd601de6ba5e6cc78d22b170",
+"assets/NOTICES": "5afcadbfaa189cb8ae4d5c845aa20e61",
+"assets/FontManifest.json": "03825d2ac6f5777f403bfe934098d6f1",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "9947c57a34f16bce23baa3e58018d85b",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/assets/strings/en.json": "f22371b8255b7b44024dea1dac0bc461",
+"assets/assets/strings/fr.json": "0b2e0702d96225846a69def4b63591b5",
+"assets/assets/images/ripple_effect_screenshot_fr_3.png": "46b49a7322186e186deb0af780ff0df3",
+"assets/assets/images/ripple_effect_screenshot_fr_2.png": "9f47353c38fbf1c71835ad377c9d0fde",
+"assets/assets/images/ripple_effect_icon.png": "0b51a7bb702e9a34f6bf496da9d0d9c4",
+"assets/assets/images/banner.jpg": "452db6e372bd49eb44609a168a2ec1ac",
+"assets/assets/images/frenchie_games.png": "df2f94112ed693c71c83f24a3d34c6ce",
+"assets/assets/images/ripple_effect_screenshot_fr_1.png": "4086b152c20c0e255b66f24550709041",
+"assets/assets/images/nonogram_colors_screenshot_fr_3.png": "17c90aa37c3b0978b522c2596acdf42a",
+"assets/assets/images/nonogram_colors_screenshot_fr_2.png": "fe24e2fe4f8b8f468d3089bddff7d5ca",
+"assets/assets/images/nonogram_colors_screenshot_fr_1.png": "df48e0688588b509f67ccdbf66e8f400",
+"assets/assets/images/app_store_badge.png": "f3e9495b99b38622485d78c8430cabe5",
+"assets/assets/images/nonogram_colors_screenshot_en_1.png": "83b257740dd890e8cf079909a0fc2e83",
+"assets/assets/images/linked_words_icon.png": "85817693dcc3de130d72b0328b202a9f",
+"assets/assets/images/nonogram_colors_screenshot_en_2.png": "d4293c31ded80fffbc44bde237ebb3fd",
+"assets/assets/images/nonogram_colors_screenshot_en_3.png": "69ce1150cb23ac34a69c2b97be756919",
+"assets/assets/images/baguette.png": "b67f1b59d688121dba46500095548460",
+"assets/assets/images/play_store_badge.png": "6715899e7b4005ea37de44a48abed711",
+"assets/assets/images/ripple_effect_screenshot_en_1.png": "b5677d8e49702641b4ee63ae853fe950",
+"assets/assets/images/linked_words_screenshot_fr_1.png": "2d82b9479b4e865a10ffbea76f615de3",
+"assets/assets/images/nonogram_icon.png": "6985f6967847f81a340aa05bb0a02063",
+"assets/assets/images/ripple_effect_screenshot_en_2.png": "4b8a9259879e5967d8f1a5e8ff4abe3c",
+"assets/assets/images/linked_words_screenshot_fr_2.png": "47936aad1359fbff46026d4570363212",
+"assets/assets/images/linked_words_screenshot_fr_3.png": "f00c78a35de3bcd58c4fb3146dc08c23",
+"assets/assets/images/ripple_effect_screenshot_en_3.png": "b8596c56c2d6476812027cc10607c37b",
+"assets/assets/fonts/Dosis_Medium.ttf": "9bc7d1d17b09ff0b8bb1017bd51533b4",
+"assets/assets/fonts/Dosis_Bold.ttf": "77c62314f5d3d19c081ddb58872ed5da",
+"assets/assets/fonts/Dosis_Light.ttf": "16cd99c1ac888ba28fe737785bf001be",
+"assets/assets/fonts/Dosis_SemiBold.ttf": "cacdd7a5c24ba9c2da2519d31f210b54",
+"assets/assets/fonts/Dosis_ExtraLight.ttf": "18640b6254dc6331b1ae12276bd60b7d",
+"assets/assets/fonts/Dosis_ExtraBold.ttf": "b6d17f25e8b1f17f848c82c9c506eff5",
+"assets/assets/fonts/Dosis_Regular.ttf": "f955f2f8e27d40d466433459d2df444c",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -59,7 +71,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
@@ -149,9 +161,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })
@@ -185,7 +199,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
