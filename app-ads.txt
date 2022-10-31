@@ -74,6 +74,7 @@ video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 188404962, RESELLER
 videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 #Facebook
+facebook.com, 253404328666855, DIRECT, c3e20eee3f780d68
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, 253404328666855, RESELLER, c3e20eee3f780d68
 #AdColony
