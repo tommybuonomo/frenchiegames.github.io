@@ -1,3 +1,5 @@
+#AppLovin
+applovin.com, a8cafe830bbb8f0bee2617516769cac8, DIRECT
 #Updated Oct6th, 2022
 #Appodeal
 appodeal.com, 115058, DIRECT
